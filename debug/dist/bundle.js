@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("function component() {\r\n\tconst element = document.createElement('div')\r\n\telement.innerHTML = '<p>hello webpack</p>'\r\n\treturn element\r\n}\r\n\r\ndocument.body.appendChild(component())\r\n\n\n//# sourceURL=webpack://class01/./src/index.js?");
+eval("function component() {\n\tconst element = document.createElement('div')\n\telement.innerHTML = '<p>hello webpack</p>'\n\treturn element\n}\n\ndocument.body.appendChild(component())\n\n\n//# sourceURL=webpack://class01/./src/index.js?");
 
 /***/ })
 
